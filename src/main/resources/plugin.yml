@@ -1,0 +1,4 @@
+main: integral.studios.anticheat.Integral
+version: ${project.version} (Build ${git.commit.id.abbrev})
+description: The only AntiCheat Solution
+name: Integral
